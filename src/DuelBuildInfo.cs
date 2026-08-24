@@ -1,9 +1,7 @@
 namespace ErenshorDuel
 {
-    // Updated deliberately with source changes so /eduel diagnostics can identify the running
-    // development build even before a commit exists.
     internal static class DuelBuildInfo
     {
-        internal const string Id = "0.4.6-rc-npc-selfcast-repair";
+        internal const string Id = "0.5.1-terminal-combat-cleanup";
     }
 }
